@@ -12,12 +12,12 @@ html,body{margin:0;padding:0;font-family: "Poppins", system-ui, -apple-system, "
 .header-inner{display:flex;align-items:center;justify-content:space-between;padding:18px 0}
 .brand{display:flex;gap:12px;align-items:center}
 .logo-mark{background:linear-gradient(135deg,var(--blue),#124e8d);color:var(--white);font-weight:700;padding:10px 14px;border-radius:6px;font-size:20px}
-.brand-text h1{margin:0;font-size:18px;letter-spacing:1px}
+.brand-text h1{margin:0;font-size:20px;letter-spacing:1px}
 .sub{margin:0;color:var(--muted);font-size:12px}
 .main-nav a{margin-left:18px;color:var(--muted);text-decoration:none;font-size:14px}
 .hero{background:linear-gradient(180deg, rgba(15,79,163,0.06), rgba(255,255,255,0.025));padding:36px 0;border-bottom:1px solid #eef2ff}
 .hero-inner{display:flex;gap:28px;align-items:center}
-.hero-copy h2{font-size:28px;margin:0;color:var(--blue)}
+.hero-copy h2{font-size:32px;margin:0;color:var(--blue)}
 .hero-sub{color:var(--muted);margin-top:6px}
 .hero-image img{width:420px;max-width:100%;border-radius:8px;box-shadow:0 10px 30px rgba(6,30,60,0.08)}
 .hero-ctas{margin-top:18px}

@@ -1,1 +1,1 @@
-STA Biz Hub - Starter Website\nDeploy on GitHub Pages: repo name must be stabizhub.github.io\n
+STA BizHub v2 - deploy on GitHub Pages
