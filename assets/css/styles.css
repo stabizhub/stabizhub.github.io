@@ -1,0 +1,4 @@
+
+:root{--blue:#003399;--gold:#D4AF37;--white:#ffffff;--muted:#6b7280;--max-width:1100px}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#fff;color:#04102a}
+.container{max-width:1100px;margin:0 auto;padding:0 20px}
